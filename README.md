@@ -1,4 +1,4 @@
 # sample
 This is my sample repository.
-<br>  
+<br>   
 Author ~ Punit Singh Mattu. 
